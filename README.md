@@ -1,4 +1,5 @@
 Project Overview
+
 This dissertation presents the design and development of an XY Axis Sketching Robot capable of drawing precise sketches on various surfaces including walls, glass, and paper. The system utilizes two degrees of freedom (X and Y axes) with a servo-controlled pen mechanism, controlled through Arduino UNO microcontroller and open-source software.
 
 ![Appreciation](https://github.com/user-attachments/assets/2e483baf-bd25-4719-9b33-75ad7f9fd15c)
